@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ch9_Resource</string>
+    <string name="intro_main">
+        김바울, Paul Kim
+    </string>
+    <string name="intro_detail">
+        숭실대학교, 글로벌미디어학부, 21학번
+    </string>
+    <string name = "intro_more">#숭실대 #INFP</string>
+    <string name = "intro_button">더 알아보기</string>
+    <string name = "intro_delay">연락처 복사하기</string>
+    <string name="text1">#SSU</string>
+    <string name="text2">#GlobalMedia</string>
+    <string name="text3">#21</string>
+    <string name="text4">#INFP</string>
+    <string name="text5">#Music</string>
+    <string name="text6">#Design</string>
+</resources>

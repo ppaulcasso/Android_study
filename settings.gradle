@@ -1,0 +1,5 @@
+rootProject.name = "My Application"
+include ':app'
+include ':app:ch0_resource'
+include ':ch9_resource'
+include ':ch10_notification'
